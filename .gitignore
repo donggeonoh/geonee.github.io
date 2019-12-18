@@ -1,3 +1,6 @@
+### intelliJ ###
+/.idea
+
 ### Jekyll ###
 _site
 .sass-cache
