@@ -1,8 +1,10 @@
 # main links
 main:
-   - title: "Archive"
-     url: /collection-archive/
-   - title: "Tag"
-     url: /tags/
+   - title: "Home"
+     url: /
+   - title: "About"
+     url: /about/
    - title: "Category"
      url: /categories/
+   - title: "Test"
+     url: /test/
