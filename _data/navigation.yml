@@ -1,10 +1,10 @@
 # main links
 main:
-   - title: "Home"
-     url: /
    - title: "About"
      url: /about/
-   - title: "Category"
+   - title: "카테고리"
      url: /categories/
-   - title: "Test"
-     url: /test/
+   - title: "포스트"
+     url: /posts/
+   - title: "태그"
+     url: /tags/
